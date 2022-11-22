@@ -1,5 +1,7 @@
+import Layout from "../components/Layout";
+
 function Contact() {
-  return <div>Contact</div>;
+  return <Layout title="Contact">Contact page</Layout>;
 }
 
 export default Contact;
